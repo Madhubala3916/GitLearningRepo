@@ -1,3 +1,7 @@
 sample file
+<<<<<<< Updated upstream
 
 2. Change in the remote file sample
+=======
+1. Change in local file sample
+>>>>>>> Stashed changes

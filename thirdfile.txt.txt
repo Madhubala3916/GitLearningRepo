@@ -1,3 +1,7 @@
 new file for checking
+<<<<<<< Updated upstream
 
 2. Change in the remote file thirdfile
+=======
+1. change in the local file thirdfile
+>>>>>>> Stashed changes
